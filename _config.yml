@@ -1,0 +1,13 @@
+title: Pesquisas de Opinião sobre Diversidade
+description: Pesquisas de Opinião sobre Diversidade
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+relative_links:
+  enabled: true
+  collections: true
+
+theme: jekyll-theme-dinky
+
+
